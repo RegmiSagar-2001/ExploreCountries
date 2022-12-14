@@ -1,0 +1,15 @@
+{
+  "name": "aboutcountries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass SCSS/main.scss CSS/script.css -w"
+  },
+  "author": "Sagar Regmi",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
